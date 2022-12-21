@@ -15,4 +15,6 @@
 ## Proyecto-Final1
  ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyectofinal1.jpg)
 ## Proyecto-Final2
- ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyectofinal1.jpg)
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto2.jpg)
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto2.jpg)
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto2.jpg)
