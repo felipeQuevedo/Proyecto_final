@@ -20,7 +20,8 @@
  ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto22.jpg)
  ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto23.jpg)
  ## Proyecto-Final3
- ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto3.jpg)
- ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto21.jpg)
  ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto31.jpg)
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto21.jpg)
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto3.jpg)
  ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto23.jpg)
+ - Algo que cabe recalcar es que la app tiene funcionalidad de modo oscuro, que funciona en todas las apps
