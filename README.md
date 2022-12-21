@@ -12,4 +12,6 @@
   - Pantalla de Inicio
   - Pantalla de categorias
  - Todas las 3 Apis tienen los requerimientos pedidos, pero algunas sin funcionalidad, con esto quiero llegar a que de la 1 a la 3 es el orden en el cual esta mas cerca del producto final siendo la 1 un cascaron vacio, en este sentido la 3 es la mas completa, adjunto las imagenes de cada una de estas en orden de menor a mayor.
- 
+ - Imagen de la API número 1.
+ ## Proyecto-Final1
+ [image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyectofinal1.jpg)
