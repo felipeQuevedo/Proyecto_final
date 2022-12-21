@@ -16,5 +16,11 @@
  ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyectofinal1.jpg)
 ## Proyecto-Final2
  ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto2.jpg)
- ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto2.jpg)
- ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto2.jpg)
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto21.jpg)
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto22.jpg)
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto23.jpg)
+ ## Proyecto-Final3
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto3.jpg)
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto21.jpg)
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto31.jpg)
+ ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/proyecto23.jpg)
